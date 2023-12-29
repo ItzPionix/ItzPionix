@@ -1,6 +1,10 @@
-### Hi, I'm Pionix 💻
+<div align="center">
+<h1 align="center">Hola, soy <a href="http://https://github.com/ItzPionix">Pionix</a> 👋​</h1>
+</div>
 
-<img align='right' src="https://discord.c99.nl/widget/theme-4/510520418311077899.png"/>
+### Hi, I'm Pionix 
+
+<img align='right' src="https://discord.c99.nl/widget/theme-1/510520418311077899.png"/>
 
 - Discord: pionixx
 - [Twitter](https://twitter.com/imbelkos)
